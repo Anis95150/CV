@@ -6,13 +6,15 @@ h1{
 }
 #Anis{
 	width: 1175px;
-background-color: red;
+background-color: powderblue;
 border-radius: 10px;
+border: outset white;
 }
 
 
 header p{
 	margin-top: 0;
+	font-weight: bold;
 }
 h2{
 	border-bottom: 2px solid;
@@ -21,6 +23,13 @@ h2{
 #Interet ul li{
 	 list-style-type: none;
 	 margin-left: 95px;
+	 font-weight: bold;
+}
+#Formation ul li{
+	font-weight: bold;
+}
+#Experiences ul li{
+	font-weight: bold;
 }
 body {
 	background-image: url("../image/balise.jpg");
